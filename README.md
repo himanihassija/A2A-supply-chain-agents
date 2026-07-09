@@ -4,6 +4,13 @@ An autonomous multi-agent system for supply chain decision-making, built around 
 
 This project reimplements the concept from Google's "Build an Autonomous Supply Chain with Gemini & AlloyDB AI" codelab, adapted to run entirely on free, local tools instead of paid Google Cloud infrastructure.
 
+
+## 🚀 Live Demo
+
+**Watch the complete Agent-to-Agent workflow demonstration on LinkedIn:**  
+https://www.linkedin.com/posts/himani-hassija-116b46324_agenticai-multiagentsystems-googlea2a-ugcPost-7480602310876811264-uPri/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFIJ8SIB9gpcxsPWMGXkc4n7M8ZtZuJpGyI
+
+
 ## Overview
 
 The system solves a simple supply chain problem: given an image of inventory items, identify what is present, then automatically find the best matching supplier for those items.
