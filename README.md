@@ -129,7 +129,7 @@ This starts both agents in the background and runs the full discover, analyze, a
 
 ## Example Output
 
-```
+``` 
 Found: VisionAgent
 Found: SupplierAgent
 
