@@ -2,10 +2,8 @@
 
 An autonomous multi-agent system for supply chain decision-making, built around Google's Agent-to-Agent (A2A) architecture pattern. Two independent AI agents run as separate services, publish agent cards describing their own capabilities, and discover and call each other dynamically rather than being hardcoded together.
 
-This project reimplements the concept from Google's "Build an Autonomous Supply Chain with Gemini & AlloyDB AI" codelab, adapted to run entirely on free, local tools instead of paid Google Cloud infrastructure.
 
-
-## 🚀 Live Demo
+## Live Demo
 
 **Watch the complete Agent-to-Agent workflow demonstration on LinkedIn:**  
 https://www.linkedin.com/posts/himani-hassija-116b46324_agenticai-multiagentsystems-googlea2a-ugcPost-7480602310876811264-uPri/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFIJ8SIB9gpcxsPWMGXkc4n7M8ZtZuJpGyI
